@@ -27,9 +27,9 @@ I have experience with the following technologies and tools:
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Express.js, MongoDB/MySQL/PostGres
-- Full-Stack: GraphQL, RestAPI
+- Full-Stack: Typescript, GraphQL, RestAPI
 - Cloud: AWS
-- Payment services: Stripe
+- Payment services: Stripe, Recurly
 - Tools: Git, GitHub
 - Other: Agile Methodologies, Scrum, JIRA
 
