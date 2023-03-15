@@ -43,4 +43,4 @@ If you want to learn more about my projects, or just chat about tech, feel free 
 
 ### **📝 Check out my blog**
 
-I also have a blog where I write about my experiences in tech and share tips and tricks I've learned along the way. You can check it out at [techwithimy.com](techwithimy.com).
+I also have a blog where I write about my experiences in tech and share tips and tricks I've learned along the way. You can check it out at [www.techwithimy.com](www.techwithimy.com).
