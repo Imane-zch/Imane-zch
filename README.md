@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## **Hi there, I'm Imane 👋**
 
-I am a junior software engineer based in London with 7 years of experience in the supply chain industry. I decided to transition my career into tech after trying my first web development course and falling in love with programming.
+I am a software engineer based in London with 7 years of experience in the supply chain industry. I decided to transition my career into tech after trying my first web development course and falling in love with programming.
 
 ### **🚀 What I'm currently working on**
 
-I am currently working as a junior software engineer, and consistently thriving to build my web development skills through studying and building new projects.
+I am currently working as a software engineer, and consistently thriving to build my web development skills through studying and building new projects.
 
 ### **🔧 Technologies & Tools**
 
@@ -27,7 +27,7 @@ I have experience with the following technologies and tools:
 
 - Front-end: HTML, CSS, JavaScript, React
 - Back-end: Node.js, Express.js, MongoDB/MySQL/PostGres
-- Full-Stack: Typescript, GraphQL, RestAPI
+- Full-Stack: Typescript, GraphQL, RestAPI, Python
 - Cloud: AWS
 - Payment services: Stripe, Recurly
 - Tools: Git, GitHub
@@ -40,7 +40,3 @@ I am currently learning more about AWS and its services, as well as testing fram
 ### **💬 Let's connect!**
 
 If you want to learn more about my projects, or just chat about tech, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/imaneziouche/)** or **[Instagram](instagram.com/techwithimy/)**. I'm always looking for opportunities to learn and collaborate with others!
-
-### **📝 Check out my blog**
-
-I also have a blog where I write about my experiences in tech and share tips and tricks I've learned along the way. You can check it out at [www.techwithimy.com](www.techwithimy.com).
