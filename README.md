@@ -13,30 +13,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## **Hi there, I'm Imane 👋**
+## Hi there, I'm Imane 👋
 
-I am a software engineer based in London with 7 years of experience in the supply chain industry. I decided to transition my career into tech after trying my first web development course and falling in love with programming.
+I'm a software engineer, founder, and tech educator based in London.
 
-### **🚀 What I'm currently working on**
+I transitioned into tech after several years working in supply chain, and since then I’ve built experience across front-end development, full-stack engineering, SEO-focused web platforms, product development, and teaching.
 
-I am currently working as a software engineer, and consistently thriving to build my web development skills through studying and building new projects.
+I’m passionate about building useful, accessible, and human-centred digital products — especially tools that support women, families, small businesses, and underserved communities.
 
-### **🔧 Technologies & Tools**
+### 🚀 What I'm currently working on
+
+I currently work as a software engineer, building and maintaining modern web experiences with technologies such as React, Next.js, TypeScript, GraphQL, and Node.js.
+
+Alongside my engineering work, I’m the founder of **Bloom Mama**, a multilingual postpartum recovery app designed to support mothers after birth with accessible, expert-informed guidance.
+
+I’m also building **Imane Builds**, where I create websites, digital products, and technical solutions for founders, small businesses, and purpose-led projects.
+
+### 👩‍🏫 Tech education & community
+
+Teaching is a big part of my work. I’m involved with **Code First Girls** as an instructor, coach, and ambassador, helping women and career changers build confidence in tech.
+
+I enjoy making technical concepts feel clearer, less intimidating, and more practical — whether that’s through mentoring, teaching coding sessions, or supporting junior developers.
+
+### 🔧 Technologies & Tools
 
 I have experience with the following technologies and tools:
 
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express.js, MongoDB/MySQL/PostGres
-- Full-Stack: Typescript, GraphQL, RestAPI, Python
-- Cloud: AWS
-- Payment services: Stripe, Recurly
-- Tools: Git, GitHub
-- Other: Agile Methodologies, Scrum, JIRA
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Back-end:** Node.js, Express.js, REST APIs, GraphQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Mobile & product:** React Native, Expo, RevenueCat
+- **CMS & content:** Strapi, Prismic, Payload CMS
+- **Cloud & services:** AWS, Stripe, Recurly
+- **Tools:** Git, GitHub, Jira, Figma, FullStory
+- **Other:** Agile, Scrum, SEO, accessibility, UAT, product thinking
 
-### **🌱 What I'm learning**
+### 🌱 What I'm currently learning
 
-I am currently learning more about AWS and its services, as well as testing frameworks such as Jest and Enzyme. I am also diving deep into the world of Algorithms.
+I’m currently deepening my skills in AWS, backend development, testing, software architecture, and product-led engineering.
 
-### **💬 Let's connect!**
+I’m also continuing to build my own products and explore how technology can be used to create more inclusive and supportive digital experiences.
 
-If you want to learn more about my projects, or just chat about tech, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/imaneziouche/)** or **[Instagram](instagram.com/techwithimy/)**. I'm always looking for opportunities to learn and collaborate with others!
+### 💻 Featured projects
+
+#### Bloom Mama
+
+A multilingual postpartum recovery app available in English, French, and Arabic, designed to support mothers through recovery, emotional wellbeing, pelvic floor care, C-section recovery, and more.
+
+#### Imane Builds
+
+My web development and digital product studio, helping founders, small businesses, and entrepreneurs create clean, professional, and effective websites.
+
+🔗 [Visit Imane Builds](https://imanebuilds.dev/)
+
+### 💬 Let's connect!
+
+If you’d like to collaborate, chat about tech, discuss a project, or connect around women in tech, feel free to reach out.
+
+You can find me on **[LinkedIn](https://www.linkedin.com/in/imaneziouche/)**.
+```
+
